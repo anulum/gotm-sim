@@ -1,4 +1,6 @@
-﻿[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
+﻿[![](https://github.com/anulum/gotm-sim/actions/workflows/ci.yml/badge.svg)](https://github.com/anulum/gotm-sim/actions/workflows/ci.yml)
+
+[![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
 
 **Related repositories:**
 - [GOTM Anchor DB](https://github.com/anulum/gotm-anchor-db)
