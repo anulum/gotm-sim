@@ -1,28 +1,28 @@
 ﻿---
-name: 🐛 Bug report
-about: Nahlásiť chybu alebo nefunkčnú funkcionalitu
-title: "[BUG]"
+name:  Bug report
+about: Report a bug or broken behavior
+title: ""[BUG]""
 labels: bug
 assignees: ''
 ---
 
-**Popis chyby**
-Čo sa deje? Jasne popíš problém.
+**Describe the bug**
+A clear description of what happens.
 
-**Kroky na reprodukciu**
-1. …
-2. …
-3. …
+**To Reproduce**
+1. 
+2. 
+3. 
 
-**Očakávané správanie**
-Čo si očakával, že sa stane?
+**Expected behavior**
+What did you expect to happen?
 
-**Screenshoty / Logy**
-Ak je možné, prilož screenshoty alebo logy.
+**Screenshots / Logs**
+If possible, add screenshots or logs.
 
-**Prostredie**
+**Environment**
  - OS:
- - Verzia Pythonu / Node / iné:
+ - Versions (Python/Node/etc.):
  - Branch:
 
-**Dodatočné info**
+**Additional context**

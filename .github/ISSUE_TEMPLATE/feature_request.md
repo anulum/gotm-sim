@@ -1,17 +1,17 @@
 ﻿---
-name: 💡 Feature request
-about: Návrh na novú funkcionalitu alebo vylepšenie
-title: "[FEATURE]"
+name:  Feature request
+about: Suggest a new feature or improvement
+title: ""[FEATURE]""
 labels: enhancement
 assignees: ''
 ---
 
-**Popis funkcie**
-Popíš, čo má funkcia robiť a prečo je užitočná.
+**Summary**
+What should the feature do and why is it useful?
 
-**Alternatívy**
-Ak existuje iný spôsob, spomeň ho.
+**Alternatives**
+Any alternative solutions youve considered.
 
-**Možné implementačné kroky**
-1. …
-2. …
+**Proposed steps**
+1. 
+2. 

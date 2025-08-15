@@ -1,13 +1,14 @@
-﻿## Popis
-Čo tento PR robí a prečo.
+﻿## Summary
+What this PR changes and why.
 
-## Zmeny
-- [ ] Nová funkcionalita
-- [ ] Oprava chyby
-- [ ] Dokumentácia
+## Changes
+- [ ] Feature
+- [ ] Bugfix
+- [ ] Docs
+- [ ] Build/CI
 
-## Súvisiace Issue
-Closes #...
+## Related Issues
+Closes #
 
-## Testovanie
-Ako si testoval/a zmeny (kroky, očakávania).
+## Testing
+How did you test it (steps, expected results).
